@@ -1,0 +1,13 @@
+**Description about the Dataset**
+  This dataset is the combination of 7 columns: 
+    1. Date
+    2. Open
+    3. High
+    4. Low
+    5. Close
+    6. Adj Close
+    7. Volume
+  This dataset is a table real world records of stock values on the particular date.
+  The dataset is comprising of the prices from 14-03-1986 to 12-03-2015. 
+  The dataset is retrieved from Microsoft Corporation (MFST)
+  🔗: https://finance.yahoo.com/quote/MSFT/history/?guccounter=1
