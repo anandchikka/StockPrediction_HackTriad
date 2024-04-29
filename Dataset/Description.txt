@@ -1,4 +1,4 @@
-**Description about the Dataset**
+Description about the Dataset:
   This dataset is the combination of 7 columns: 
     1. Date
     2. Open
